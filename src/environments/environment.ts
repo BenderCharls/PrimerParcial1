@@ -5,12 +5,13 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyBMOaRr0NirNOX-eh2ITJBHUpL3ow8Hr4w",
-    authDomain: "splendid-ground-95214.firebaseapp.com",
-    databaseURL: "https://splendid-ground-95214.firebaseio.com",
-    projectId: "splendid-ground-95214",
-    storageBucket: "",
-    messagingSenderId: "429226112331"
+    apiKey: "AIzaSyBRSd0RXXOsZS_8GNfI2hR9c8tCsnvZEo8",
+    authDomain: "teamasterapp.firebaseapp.com",
+    databaseURL: "https://teamasterapp.firebaseio.com",
+    projectId: "teamasterapp",
+    storageBucket: "teamasterapp.appspot.com",
+    messagingSenderId: "362935659328"
+
   }
 };
 
